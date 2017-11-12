@@ -1,2 +1,2 @@
 # C-and-Data-Structures
-Simple concepts of C and basic data structure
+Simple concepts of C and basic data structures
